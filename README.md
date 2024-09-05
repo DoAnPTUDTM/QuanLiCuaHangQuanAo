@@ -1,5 +1,5 @@
 # Thành viên
-Tên nhóm: Sea  
+Tên nhóm: Nhóm Ba
 
   
 | STT | Họ tên | Chức vụ  |
